@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <a href="" rel="noopener"><img width=100% src="https://i.ibb.co/ynxNj2L/image.png" alt="IoT Parking System Logo"></a>
+  <a href="" rel="noopener"><img width=100% src="https://scontent.fdvo1-1.fna.fbcdn.net/v/t1.15752-9/386864073_3531565157086691_1112615445928416481_n.png?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeFG9vDUpkd6n_evybCjMEHU5Vya1JloRBflXJrUmWhEFyWzSjFFWiebHoPSNFroy9tglQ8_HAxBmZPgphq5IQ7o&_nc_ohc=LWE3dFXkfRMAX-xtnLb&_nc_ht=scontent.fdvo1-1.fna&oh=03_AdTP2I-hQjx4AmJIOgnRCCKlcz2qVy1VMXca0ODvZWpOSg&oe=65A4CAB2" alt="IoT Parking System Logo"></a>
 </p>
 
 <p align="center">An IoT parking system project built using CodeIgniter 4 and Arduino Uno R4 WiFi for IT214 - IS Innovations and New Technologies subject.</p>
@@ -98,5 +98,6 @@ Deploy the web panel to a live web hosting service. Configure the Arduino system
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@dnachavez](https://github.com/dnachavez) - Idea & Initial work
+- [@0Exeqt0](https://github.com/0Exeqt0) - Arduino code
 
 See also the list of [contributors](https://github.com/dnachavez/iotparkingsystem/contributors) who participated in this project.
