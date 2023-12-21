@@ -44,6 +44,7 @@ class ParkingSpaceApi extends BaseController
                 $this->parkingSpaceModel->update($parkingSpaceReservation['parking_space_id'], ['status' => '2']);
             } elseif ($currentDate > $parkingSpaceReservation['reservation_date']) {
                 $this->parkingSpaceReservationModel->update($parkingSpaceReservation['id'], ['status' => '2']);
+                $this->parkingSpaceModel->update($parkingSpaceReservation['parking_space_id'], ['status' => '1']);
             }
         }
 
